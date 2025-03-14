@@ -70,7 +70,7 @@ git clone https://github.com/yourusername/OrderManagement.git
 3. Place an Order: Select a product, fill out your order details, and place the order.
 4. Order Confirmation: Once your order is placed, you'll see a confirmation page.
 5. Logout: Log out using the logout button.
-6. 
+
 **Example Flow**
 Login → View Products → Select Product → Place Order → Order Confirmation
 
